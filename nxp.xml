@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="407alpha/vendor-nxp" path="vendor/nxp" remote="github" revision="master" />
+  <project name="407alpha/nfc-NXPNFCC_FW" path="vendor/nxp/NXPNFCC_FW" remote="github" revision="master" />
+</manifest>

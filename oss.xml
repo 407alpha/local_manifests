@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="407alpha/vendor-qcom-opensource-dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="master" />
+  <project name="407alpha/vendor-qcom-opensource-fm" path="vendor/qcom/opensource/fm" remote="github" revision="master" />
+  <project name="407alpha/vendor-qcom-opensource-location" path="vendor/qcom/opensource/location" remote="github" revision="n-mr1" />
+  <project name="407alpha/vendor-qcom-opensource-time-services" path="vendor/qcom/opensource/time-services" remote="github" revision="master" />
+  <project name="407alpha/hardware-qcom-wlan" path="vendor/qcom/opensource/wlan" remote="github" revision="master" />
+  <project name="407alpha/vendor-sony-oss-fingerprint" path="vendor/sony-oss/fingerprint" remote="github" revision="master" />
+  <project name="407alpha/macaddrsetup" path="vendor/sony-oss/macaddrsetup" remote="github" revision="master" />
+  <project name="407alpha/thermanager" path="vendor/sony-oss/thermanager" remote="github" revision="master" />
+  <project name="407alpha/timekeep" path="vendor/sony-oss/timekeep" remote="github" revision="master" />
+  <project name="407alpha/packages_apps_ExtendedSettings" path="packages/apps/ExtendedSettings" remote="github" revision="master" />
+  <project name="407alpha/packages-apps-FMRadio" path="packages/apps/FMRadio" remote="github" revision="master" />
+  <project name="407alpha/vendor/oss/json-c" path="json-c" remote="github" revision="master" />
+  <project name="407alpha/timekeep" path="vendor/sony-oss/timekeep" remote="github" revision="master" />
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="407alpha/device-sony-common-headers" path="device/sony/common-headers" remote="github" revision="aosp/LA.UM.5.7.r1" />
+  <project name="407alpha/vendor-sony-kernel" path="device/sony/common-kernel" remote="github" revision="aosp/LA.UM.5.7.r1" />
+  <project name="407alpha/camera" path="hardware/qcom/camera" remote="github" revision="aosp/LA.UM.5.7.r1" />
+  <project name="407alpha/kernel" path="kernel/sony/msm" remote="github" revision="aosp/LA.UM.5.7.r1" />
+  <project name="407alpha/camera" path="hardware/qcom/camera" remote="github" revision="aosp/LA.UM.5.7.r1" />
+  <project name="407alpha/vendor-qcom-opensource-wlan-fw-api" path="kernel/sony/msm/drivers/staging/wlan-qc/fw-api" remote="github" revision="aosp/LA.UM.6.4.r1" />
+  <project name="407alpha/vendor-qcom-opensource-wlan-qca-wifi-host-cmn" path="kernel/sony/msm/drivers/staging/wlan-qc/qca-wifi-host-cmn" remote="github" revision="aosp/LA.UM.6.4.r1" />
+  <project name="407alpha/vendor-qcom-opensource-wlan-qcacld-3.0" path="kernel/sony/msm/drivers/staging/wlan-qc/qcacld-3.0" remote="github" revision="aosp/LA.UM.6.4.r1" />
+</manifest>

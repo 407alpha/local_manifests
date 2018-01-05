@@ -12,5 +12,4 @@
   <project name="407alpha/packages_apps_ExtendedSettings" path="packages/apps/ExtendedSettings" remote="github" revision="master" />
   <project name="407alpha/packages-apps-FMRadio" path="packages/apps/FMRadio" remote="github" revision="master" />
   <project name="407alpha/vendor/oss/json-c" path="json-c" remote="github" revision="master" />
-  <project name="407alpha/timekeep" path="vendor/sony-oss/timekeep" remote="github" revision="master" />
 </manifest>

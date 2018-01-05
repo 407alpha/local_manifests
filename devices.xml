@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="407alpha/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="n-mr1" />
+  <project name="407alpha/device-sony-common" path="device/sony/common" remote="github" revision="n7.1" />
+  <project name="407alpha/device-sony-loire" path="device/sony/loire" remote="github" revision="n7.1" />
+  <project name="407alpha/device-sony-suzu" path="device/sony/suzu" remote="github" revision="n7.1" />
+</manifest>
